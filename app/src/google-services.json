@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905851871409",
+    "project_id": "mobilpaymentmanagement",
+    "storage_bucket": "mobilpaymentmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905851871409:android:a0f2373e5c4fdde001c290",
+        "android_client_info": {
+          "package_name": "com.example.paymentrefundmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905851871409-drdc6ssmt45eaklps1bmro29db2kdc6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paymentrefundmanagement",
+            "certificate_hash": "cc84ac489df9e757a06d9e0351907e3dff823651"
+          }
+        },
+        {
+          "client_id": "905851871409-drdc6ssmt45eaklps1bmro29db2kdc6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Z7PIzhRlcAl9r3s0feGWdXGmEDiZRmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905851871409-drdc6ssmt45eaklps1bmro29db2kdc6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

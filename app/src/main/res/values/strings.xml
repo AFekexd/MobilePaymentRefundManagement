@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PaymentRefundManagement</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Log In</string>
+    <string name="registration">Registration</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="user_name">Username</string>
+    <string name="email_address">E-mail</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">CANCEL</string>
+    <string name="_500">500</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="payment_refund">Payment/Refund</string>
+    <string name="party_financial">Party/Financial</string>
+    <string name="accounttype">AccountType</string>
+    <string name="name">Name</string>
+    <string name="create">Create</string>
+    <string name="_2000_00_00">2000.00.00</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="giorno_giovanna">Giorno Giovanna</string>
+    <string name="payment">Payment</string>
+    <string name="refund">Refund</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="type">Type</string>
+    <string name="party">Party</string>
+    <string name="finacial">Finacial</string>
+    <string name="method">Method</string>
+    <string name="status_date">Status Date</string>
+    <string name="dio_brando">Dio Brando</string>
+    <string name="to_who2">To Who</string>
+    <string name="tax2">Tax</string>
+    <string name="details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="list_transactions">List Transactions</string>
+    <string name="save">Save</string>
+
+</resources>
